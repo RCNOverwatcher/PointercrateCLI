@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pointercrateRoulette.iml" filepath="$PROJECT_DIR$/.idea/pointercrateRoulette.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pointercrateCLI.iml" filepath="$PROJECT_DIR$/.idea/pointercrateCLI.iml" />
     </modules>
   </component>
 </project>
