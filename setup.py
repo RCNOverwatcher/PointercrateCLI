@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='pointecrateCLI',
+    name='pointercrateCLI',
     version='0.1.0',
     description='A example Python package',
     url='https://github.com/RCNOverwatcher/PointercrateCLI',
